@@ -71,7 +71,7 @@
   "A3": "26dc7437-c0cb-4cb8-ba93-4beb092b6f1e",
   "A4": "26dc7437-c0cb-4cb8-ba93-4beb092b6f1e",
   "A5": "33e36b9d-c6f7-4099-a751-f26dcf2652f1",
-  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
   "E2": 1
 }
 + MetaData.Schema.D2 {
@@ -80,20 +80,18 @@
   "A3": "26dc7437-c0cb-4cb8-ba93-4beb092b6f1e",
   "A4": "26dc7437-c0cb-4cb8-ba93-4beb092b6f1e",
   "A5": "33e36b9d-c6f7-4099-a751-f26dcf2652f1",
-  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
   "E2": 1
 }
 + MetaData.Schema.D2 {
-  "UId": "c00eb46e-794d-b2ac-8038-2a56d7a020a2",
-  "A2": "UsrTitle",
+  "UId": "bcb6ab50-feb8-3397-b5ff-d6cb86762e69",
+  "A2": "UsrComissionUSD",
   "A3": "26dc7437-c0cb-4cb8-ba93-4beb092b6f1e",
   "A4": "26dc7437-c0cb-4cb8-ba93-4beb092b6f1e",
   "A5": "33e36b9d-c6f7-4099-a751-f26dcf2652f1",
-  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
-  "E2": 1,
-  "E25": true
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","415aa07a-fcbd-4f35-94f1-e4c3c8ed7e80","8dd5121a-cf9e-8db1-2e13-32ab18965671","397f0e53-3fe3-c616-35a8-9c7c822f0957","a76e65d8-da29-a788-4ddd-fcc9f7c6808f","29583564-bfb6-b994-9b01-0ff88b57f509","88a1a3d3-1238-f3ff-413c-20d7b99dbc37","c00eb46e-794d-b2ac-8038-2a56d7a020a2"]
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","415aa07a-fcbd-4f35-94f1-e4c3c8ed7e80","8dd5121a-cf9e-8db1-2e13-32ab18965671","397f0e53-3fe3-c616-35a8-9c7c822f0957","a76e65d8-da29-a788-4ddd-fcc9f7c6808f","29583564-bfb6-b994-9b01-0ff88b57f509","88a1a3d3-1238-f3ff-413c-20d7b99dbc37","bcb6ab50-feb8-3397-b5ff-d6cb86762e69"]
 = MetaData.Schema.D20.A2 "UsrRealtyEvents"
 = MetaData.Schema.D36.A3 "26dc7437-c0cb-4cb8-ba93-4beb092b6f1e"
 = MetaData.Schema.D36.BS1 false

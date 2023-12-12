@@ -5,6 +5,16 @@
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.addRecord_lp65a9h_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_xes0atg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area must be greater than zero" />
+			<Item Name="LocalizableStrings.ExpansionPanel_1wpahkm_title.Value" Value="Realty Visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_zagudvv_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_qicbc2y_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_uqdh4tt_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5dv01w8_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_9ay0nux_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_xqiityw_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NumberInput_ud3lc5q_label.Value" Value="Number" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price must be greater than zero" />
 		</Items>
 	</Group>
 </Resources>
